@@ -56,17 +56,17 @@ Será aplicada a **Sala de aula invertida** com utilização da Estratégia e a 
 md"""
 ### Roteiro
 
-🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até DD/MM/AAAA)*,
+🕐 1. Indicação do capítulo do livro como tema da atividade a ser executada por cada grupo *(até DD/MM/AAAA)*,
  
 - _Tema_;
 
-🕑 2. Ler os subitens 8.1, 8.3 e 8.4, e seus subsubitens e o material indicado nos links. Postar no Classroom resumo de até uma página do que estudou *(até DD/MM/AAAA)*;
+🕑 2. Ler os subitens indicados, e seus subsubitens e o material indicado nos links. Postar no Classroom resumo de até uma página do que estudou *(até DD/MM/AAAA)*;
 
-🕔 3. Seleção dos subtemas com justificativa para que o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, simulações e análises) *(até DD/MM/AAAA)*;
+🕔 3. Seleção dos subtemas com justificativa para que o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, simulações, exercícios, análises, etec) *(até DD/MM/AAAA)*;
 
 🕙 4. Apresentações do subtemas *(até DD/MM/AAAA)*;
 
-🕑 5. Avaliações (sala ou extra sala) *(até DD/MM/AAAA)* e
+🕑 5. Avaliações (Google Forms) *(até DD/MM/AAAA)* e
 
 🕒 6. Feedback (sala) *(até DD/MM/AAAA)*.
 """
@@ -91,7 +91,7 @@ md"""
 
 2. HIBBELER, R. C. _**Estática : mecânica para engenharia**_. São Paulo: Pearson Prentice Hall, 2011. ix, 512 p. ISBN: 9788576058151.
 
-3. BEER, Ferdinand P. _**Mecânica vetorial para engenheiros : estática : com unidades no sistema internacional**_. Porto Alegre: AMGH, 2012. xxi, 622p. ISBN: 9788580550467.
+3. BEER, Ferdinand P. _**Mecânica vetorial para engenheiros : estática**_. Porto Alegre: AMGH, 2012. xxi, 622p. ISBN: 9788580550467.
 
 4. HIBBELER, R. C. _**Resistência dos materiais**_. São Paulo: Pearson Prentice Hall, 2010. xi, 637 p. ISBN: 9788576053736.
 
@@ -161,7 +161,7 @@ Avaliações que serão consideradas:
 # ╟─e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6
 # ╟─a23a3914-e8f3-42ec-a176-76b6821733a8
 # ╟─e72a7552-d117-4306-99c7-a3e7218adfaa
-# ╟─26d3ea71-ee35-47b4-b331-825ec7726002
+# ╠═26d3ea71-ee35-47b4-b331-825ec7726002
 # ╟─be4fb5b9-3121-43a0-bfb8-45188637216e
 # ╟─a602d726-3bdd-4d60-88a6-a2c2d2438c94
 # ╟─cd0d2e88-384f-472c-8d43-0813e0394695
