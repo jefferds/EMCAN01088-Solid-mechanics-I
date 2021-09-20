@@ -15,17 +15,17 @@ md"""
 
 1. Estática dos pontos materiais.
 
-2.1 Introdução
-2.2 Força sobre uma partícula e resultante de duas forças
-2.3 Vetores
-2.4 Adição de vetores
-2.5 Resultante de várias forças concorrentes
-2.6 Decomposição dos componentes de uma força
-2.7 Componentes retangulares de uma força e vetores unitários
-2.8 Adição de forças pela soma dos componentes x e y
-2.9 Equilíbrio de uma partícula
-2.10 Primeira lei de Newton do movimento
-2.11 Problemas que envolvem o equilíbrio de uma partícula e diagramas de corpo livre 
+- 2.1 Introdução
+- 2.2 Força sobre uma partícula e resultante de duas forças
+- 2.3 Vetores
+- 2.4 Adição de vetores
+- 2.5 Resultante de várias forças concorrentes
+- 2.6 Decomposição dos componentes de uma força
+- 2.7 Componentes retangulares de uma força e vetores unitários
+- 2.8 Adição de forças pela soma dos componentes x e y
+- 2.9 Equilíbrio de uma partícula
+- 2.10 Primeira lei de Newton do movimento
+- 2.11 Problemas que envolvem o equilíbrio de uma partícula e diagramas de corpo livre 
 
 **Fonte:**  3. BEER, Ferdinand P. _**Mecânica vetorial para engenheiros : estática**_., 9ª Edição
 
