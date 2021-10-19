@@ -35,27 +35,27 @@ md"""
 md"""
 ### Roteiro
 
-🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até 20/set/2021)*,
+🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até 18/out/2021)*,
  
 - _Corpos rígidos e sistemas equivalentes de força._;
 
-🕑 2. Ler os subitens 3.1, à 3.21, e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 06/out/2021)*;
+🕑 2. Ler os subitens 3.1, à 3.21, e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 25/out/2021)*;
 
-🕔 3. Seleção de um dos tópicos abaixo para apresentação *(até 06/out/2021)*;:
+🕔 3. Seleção de um dos tópicos abaixo para apresentação *(até 25/out/2021)*;:
 
-1. 3.6  - Momento de uma forca em relação a um ponto
-2. 3.11 - Momento de uma forca em relação a um dado eixo
-3. 3.12 - Momento de um binario
+1. 3.6  - Momento de uma força em relação a um ponto
+2. 3.11 - Momento de uma força em relação a um dado eixo
+3. 3.12 - Momento de um binário
 4. 3.13 - Binarios equivalentes
-5. 3.17 - Redução de um sistema de forcas a uma forca e um binario
-6. 3.20 - Casos particulares de redução de um sistema de forcas
-7. 3.21 - Redução de um sistema de forcas a um torsor
+5. 3.17 - Redução de um sistema de forças a uma força e um binário
+6. 3.20 - Casos particulares de redução de um sistema de forças
+7. 3.21 - Redução de um sistema de forças a um torsor
 
-🕙 4. Apresentações dos temas *(até 11/out/2021)*;
+🕙 4. Apresentações dos temas *(até 27/out/2021)*;
 
 🕑 5. Avaliações ($(html"<a href='https://docs.google.com/forms/d/e/1FAIpQLScEpnDYe1VB4ll_qZ9HcWyQm8lm6t4qdaGOwDe4bUm-pQiroQ/viewform?usp=sf_link' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>")) *(até 12/out/2021)* e
 
-🕒 6. Feedback (sala) *(até 12/out/2021)*.
+🕒 6. Feedback (sala) *(até 01/nov/2021)*.
 """
 
 # ╔═╡ Cell order:
