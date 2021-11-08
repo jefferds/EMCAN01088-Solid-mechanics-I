@@ -39,7 +39,7 @@ md"""
  
 - _Exercícios relativos Corpos rígidos e sistemas equivalentes de força._;
 
-🕔 2. Seleção de três exercícios para dos tópicos abaixo no capitulo 3 do Beer para apresentação. Entregar no clasroom os arquivos da solução dos exercícios (slides, julia, pluto, figuras, etc.) *(até 08/nov/2021)*;:
+🕔 2. Seleção de três exercícios para um dos tópicos abaixo no capitulo 3 do Beer para apresentação. Entregar no clasroom os arquivos da solução dos exercícios (slides, julia, pluto, figuras, etc.) *(até 08/nov/2021)*;:
 
 1. 3.11 - Momento de uma força em relação a um dado eixo
 2. 3.12 - Momento de um binário
