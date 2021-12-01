@@ -35,17 +35,17 @@ md"""
 md"""
 ### Roteiro
 
-🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até 25/nov/2021)*,
+🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até 01/12/2021)*,
  
 - _**Esforços internas em vigas**_
 
-🕔 2. Estudar dos capitulos 7, seções 7.1 a 7.6, do Beer, selecionar um subtema e cada membro apresentar um exercicio do subtema apresentado. Fazer a apresentação do subtema e da solução dos exercícios. *(02/dez/2021 e 03/dez/2021)*;
+🕔 2. Estudar dos capitulos 7, seções 7.1 a 7.6, do Beer, selecionar um subtema e cada membro apresentar um exercicio do subtema apresentado. Fazer a apresentação do subtema e da solução dos exercícios. *(06/dez/2021 e 06/dez/2021)*;
 
-🕙 3. Apresentações os subtemas e a solução dos exercício *(02/dez/2021 e 03/dez/2021)*;
+🕙 3. Apresentações os subtemas e a solução dos exercício *(06/dez/2021 e 08/dez/2021)*;
 
-🕑 4. Avaliações *(até 09/dez/2021)* e
+🕑 4. Avaliações *(até 13/dez/2021)* e
 
-🕒 5. Feedback (sala) *(até 09/dez/2021)*.
+🕒 5. Feedback (sala) *(até 13/dez/2021)*.
 """
 
 # ╔═╡ Cell order:
